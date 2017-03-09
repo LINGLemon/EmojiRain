@@ -79,10 +79,7 @@
         
     }
     
-    for (UIImageView *emojiImageView in self.emojiArr) {
-        [emojiImageView removeFromSuperview];
-    }
-
+    
 }
 
 - (void)removeEmojiCache{
